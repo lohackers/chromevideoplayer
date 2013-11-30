@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "Video Player",
+	"version": "0.0.0",
+	"description": "Chrome app to play videos",
+	"app": {
+		"background": {
+			"scripts": ["background.js"]
+		}
+	},
+	"icons": {
+		"16": "img/icon/16.png",
+		"48": "img/icon/48.png",
+		"128": "img/icon/128.png"
+	},
+	"author": "H-ART"
+}

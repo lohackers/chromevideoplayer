@@ -1,0 +1,20 @@
+{
+  "name": "videoplayer",
+  "version": "0.0.0",
+  "authors": [
+    "Matteo Rosati <rosati.matteo@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.3",
+    "jquery": "~2.0.3"
+  }
+}
