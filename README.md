@@ -39,7 +39,9 @@ this command will activate a file watcher and will fire up a development web ser
 Building the app
 ----------------
 
-Running `grunt build` will build the application only once. The result files (as in development mode) will be available in the `dist` directory.
+Running `grunt` (with no extra parameters) will build the application only once. The result files (as in development mode) will be available in the `dist` directory.
+
+You can get the full list of Grunt tasks running `grunt --help`.
 
 Install the app on Chrome
 -------------------------
